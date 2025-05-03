@@ -5,7 +5,7 @@ This repository contains all code and data for Experiment 1A on scope ambiguity 
 
 ## Files
 
-### Code (HTML exports)
+### Code (Static HTML exports)
 - **GPT4_control.html**  
   Code used to generate “control” responses from GPT-4.  
 - **GPT4_test.html**  
