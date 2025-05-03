@@ -1,5 +1,5 @@
 # HSL844_2024-25
-# Scope Ambiguity Experiment in Assamese
+# Scope Ambiguity in Assamese (conducted by Joynal Ali)
 
 This repository contains all code and data for Experiment 1A on scope ambiguity in Assamese, replicating Gaurav et al. (2024).
 
