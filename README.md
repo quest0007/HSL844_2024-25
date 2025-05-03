@@ -19,14 +19,14 @@ This repository contains all code and data for Experiment 1A on scope ambiguity 
 
 ### Data
 - **input_assamese_sentence.csv**  
-  The 152 Assamese sentences you created and translated (one per row), plus any metadata. This is the primary stimulus set for your human and model evaluations.
+  The 152 Assamese sentences I translated (one per row), plus any metadata. This is the primary stimulus set for model evaluations.
 - **exp1b_base_dataset.csv**  
   The original English stimuli (153 sentences) used in Gaurav et al. (2024) for their experiment. Sourced from the [McGill-NLP/scope-ambiguity](https://github.com/McGill-NLP/scope-ambiguity) repository.
 
 ## Usage
 
-1. Open the HTML scripts in your browser to review and re-run the data-collection code.  
-2. Load the `.csv` files into your analysis notebooks for statistical testing and plotting.
+1. Open the HTML scripts into review and re-run the data-collection code.  
+2. Load the `.csv` files for statistical testing and plotting.
 
 ---
 
