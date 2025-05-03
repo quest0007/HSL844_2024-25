@@ -15,7 +15,7 @@ This repository contains all code and data for Experiment 1A on scope ambiguity 
 - **IndicGPT2_test.html**  
   Code used to generate the “test” responses from the AI4Bharat Indic-GPT2 model.
 
-> These are Word-exported HTMLs of the scripts you ran—they include all prompts, model calls, and output‐parsing logic.
+> These are Word-exported HTMLs of the scripts I ran—they include all prompts, model calls, and output‐parsing logic.
 
 ### Data
 - **input_assamese_sentence.csv**  
